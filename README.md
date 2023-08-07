@@ -2,6 +2,9 @@
 
 <br>
 
+视频课程:https://www.bilibili.com/video/BV1ty4y197JE
+<br>
+
 运行环境:
 <br>
 python=3.9
